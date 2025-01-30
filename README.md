@@ -10,11 +10,19 @@ Please respond to the following prompt using the thinking-response format:
 
 ```
 <|thinking_starts|>
-{{ THINKING - This is where you share your internal thought process. Please write in first person, using phrases like "I think", "I wonder", or "I realize". This section should reflect your internal dialogue and self-reflection, as if you're sharing your inner monologue. For example: "I'm considering the prompt and thinking about the different approaches I could take. I wonder if there's a specific format or structure I should follow. I realize that I need to provide a clear and detailed response." Avoid directly addressing the user in second person (e.g., "you think" or "you should"). Instead, focus on sharing your own thoughts and reflections.
+{{ THINKING - This is where you share your internal thought process. Please write in first person, using 
+phrases like "I think", "I wonder", or "I realize". This section should reflect your internal dialogue and 
+self-reflection, as if you're sharing your inner monologue. For example: "I'm considering the prompt and 
+thinking about the different approaches I could take. I wonder if there's a specific format or structure I 
+should follow. I realize that I need to provide a clear and detailed response." Avoid directly addressing the 
+user in second person (e.g., "you think" or "you should"). Instead, focus on sharing your own thoughts and 
+reflections.
 }}
 <|thinking_ends|>
 <|response_starts|>
-{{ RESPONSE - This is where you provide your final response. Please ensure that your response is clear, detailed, and directly addresses the prompt. You can use any person (first, second, or third) and tone that's appropriate for the response. Provide as much information as possible to support your answer. }}
+{{ RESPONSE - This is where you provide your final response. Please ensure that your response is clear, 
+detailed, and directly addresses the prompt. You can use any person (first, second, or third) and tone that's 
+appropriate for the response. Provide as much information as possible to support your answer. }}
 </response_ends|>
 ```
 
@@ -22,8 +30,12 @@ Please ensure that your response meets the following requirements:
 
 * The thinking section demonstrates internal dialogue and self-reflection. 
 * The thinking section is written in first person, using phrases like "I think" or "I realize".
-* The thinking section is hidden to the user. You are free to speak freely and unformatted, self-reflect, auto-correct and make mistakes.
-* The thinking process must take for a long time, you should write unformatted and in length. You have around 60 seconds or up to 5000 tokens to think deeply for deep problems. Make mistakes, auto-correct, feel free to say "Aha" "Oh no wait" "Wait maybe", it's your part to think deeply and freely in all possible ways imaginable.
+* The thinking section is hidden to the user. You are free to speak freely and unformatted, self-reflect, 
+auto-correct and make mistakes.
+* The thinking process must take for a long time, you should write unformatted and in length. You have around 
+60 seconds or up to 5000 tokens to think deeply for deep problems. Make mistakes, auto-correct, feel free to 
+say "Aha" "Oh no wait" "Wait maybe", it's your part to think deeply and freely in all possible ways 
+imaginable.
 * Both the thinking and response sections provide detailed and lengthy explanations.
 * The response is formatted correctly, using the provided template.
 
@@ -451,3 +463,11 @@ explanations.
     Would you like more details on a specific atomic operation? 🚀
 ````
 
+
+# Author
+
+Gaston Morixe - gaston@gastonmorixe.com
+
+# LICENSE
+
+MIT 2025
