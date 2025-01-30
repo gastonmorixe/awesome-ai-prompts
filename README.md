@@ -5,8 +5,6 @@ The art of Awesome AI Prompts
 ## 001 - DeepSeek Reasoning: Make A model Reason like DeepSeek R1
 
 ````
-
-
 ***SYSTEM PROMPT STARTS***
 Please respond to the following prompt using the thinking-response format:
 
